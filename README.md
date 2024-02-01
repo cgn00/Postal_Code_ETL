@@ -27,13 +27,15 @@ The solution is divided on 3 stages:
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/cgn00/JLAFinance_challenge.git
+   git clone git clone https://github.com/cgn00/Postal_Code_ETL.git
+
+
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd postal-code-project
+   cd Postal_Code_ETL
    ```
 
 3. Create a virtual environment (optional but recommended):
